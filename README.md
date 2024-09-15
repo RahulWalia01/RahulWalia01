@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding gif" Width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m a Game Developer | Unity Developer.
 
 - 📝 I regularly write articles on [https://twitter.com/RahulWalia01](https://twitter.com/RahulWalia01)
 
