@@ -7,7 +7,7 @@
 
 -  Passionate **Game Developer** with expertise in **Unity**.
 -  Always exploring new game mechanics and UI/UX improvements.
--  Reach me on X (Twitter) at [**@RahulWalia01**](https://x.com/RahulWalia01).
+-  Reach me on X (Twitter) at [**@RahulWalia01**](https://x.com/Rahulhoonmai).
 
 ---
 
